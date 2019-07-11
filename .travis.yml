@@ -2,4 +2,4 @@ language: generic
 
 script:
   - ls
-  - exit 0
+  - exit 1
