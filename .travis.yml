@@ -1,5 +1,5 @@
 language: generic
 
 script:
-  - ls
-  - exit 1
+  - invalid command
+  - exit 0
