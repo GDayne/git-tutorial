@@ -1,5 +1,4 @@
-language: generic
+language: python
 
 script:
-  - invalid command
-  - exit 0
+  - python somePython.py
