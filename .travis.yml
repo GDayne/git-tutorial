@@ -1,0 +1,5 @@
+language: generic
+
+script:
+  - ls
+  - exit 0
