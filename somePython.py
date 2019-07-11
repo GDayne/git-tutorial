@@ -1,2 +1,3 @@
 print("blah")
-exit(1)
+
+invalid python code
