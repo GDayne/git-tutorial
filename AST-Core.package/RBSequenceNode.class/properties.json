@@ -1,0 +1,17 @@
+{
+	"commentStamp" : "",
+	"super" : "RBProgramNode",
+	"category" : "AST-Core-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"leftBar",
+		"rightBar",
+		"statements",
+		"periods",
+		"temporaries"
+	],
+	"name" : "RBSequenceNode",
+	"type" : "normal"
+}

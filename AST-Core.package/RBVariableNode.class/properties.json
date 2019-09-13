@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "RBValueNode",
+	"category" : "AST-Core-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"name",
+		"start"
+	],
+	"name" : "RBVariableNode",
+	"type" : "normal"
+}

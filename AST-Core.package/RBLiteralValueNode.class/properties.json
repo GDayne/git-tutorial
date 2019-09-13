@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "RBLiteralNode",
+	"category" : "AST-Core-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"value",
+		"sourceText"
+	],
+	"name" : "RBLiteralValueNode",
+	"type" : "normal"
+}

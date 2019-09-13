@@ -1,0 +1,1 @@
+Manifest for AST-Core package

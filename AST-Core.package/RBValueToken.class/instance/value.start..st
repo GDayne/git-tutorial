@@ -1,0 +1,4 @@
+initialization
+value: aString start: anInteger 
+	value := aString.
+	sourcePointer := anInteger

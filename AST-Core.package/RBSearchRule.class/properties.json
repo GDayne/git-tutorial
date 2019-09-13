@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RBParseTreeRule",
+	"category" : "AST-Core-Matching",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"answerBlock"
+	],
+	"name" : "RBSearchRule",
+	"type" : "normal"
+}

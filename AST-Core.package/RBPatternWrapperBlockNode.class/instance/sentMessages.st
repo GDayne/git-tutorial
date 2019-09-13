@@ -1,0 +1,3 @@
+accessing
+sentMessages
+	^ wrappedNode sentMessages

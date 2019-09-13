@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBScanner",
+	"category" : "AST-Core-Parser",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RBPatternScanner",
+	"type" : "normal"
+}

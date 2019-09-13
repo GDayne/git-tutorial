@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RBPragmaNode",
+	"category" : "AST-Core-Pattern",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"isList"
+	],
+	"name" : "RBPatternPragmaNode",
+	"type" : "normal"
+}

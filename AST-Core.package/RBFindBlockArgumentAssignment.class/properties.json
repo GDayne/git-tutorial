@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "RBProgramNodeVisitor",
+	"category" : "AST-Core-Visitors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"arguments",
+		"argumentAssignments"
+	],
+	"name" : "RBFindBlockArgumentAssignment",
+	"type" : "normal"
+}

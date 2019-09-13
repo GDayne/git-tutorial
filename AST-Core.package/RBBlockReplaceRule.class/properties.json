@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "",
+	"super" : "RBReplaceRule",
+	"category" : "AST-Core-Matching",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"replaceBlock"
+	],
+	"name" : "RBBlockReplaceRule",
+	"type" : "normal"
+}

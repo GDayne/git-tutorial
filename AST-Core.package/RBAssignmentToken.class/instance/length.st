@@ -1,0 +1,4 @@
+accessing
+length
+
+	^ 2

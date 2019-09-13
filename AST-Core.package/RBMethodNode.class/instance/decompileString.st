@@ -1,0 +1,4 @@
+accessing
+decompileString 
+
+	^ self formattedCode 

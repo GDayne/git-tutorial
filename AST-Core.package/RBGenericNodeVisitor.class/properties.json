@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBAbstractBlockVisitor",
+	"category" : "AST-Core-Visitors",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RBGenericNodeVisitor",
+	"type" : "normal"
+}

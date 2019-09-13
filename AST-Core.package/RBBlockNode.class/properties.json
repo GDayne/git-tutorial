@@ -1,0 +1,19 @@
+{
+	"commentStamp" : "",
+	"super" : "RBValueNode",
+	"category" : "AST-Core-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"left",
+		"right",
+		"colons",
+		"arguments",
+		"bar",
+		"body",
+		"scope"
+	],
+	"name" : "RBBlockNode",
+	"type" : "normal"
+}

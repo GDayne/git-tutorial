@@ -1,0 +1,16 @@
+{
+	"commentStamp" : "",
+	"super" : "RBNode",
+	"category" : "AST-Core-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"FormatterClass"
+	],
+	"instvars" : [
+		"parent",
+		"properties"
+	],
+	"name" : "RBProgramNode",
+	"type" : "normal"
+}

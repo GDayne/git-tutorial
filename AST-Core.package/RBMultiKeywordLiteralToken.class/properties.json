@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBLiteralToken",
+	"category" : "AST-Core-Tokens",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RBMultiKeywordLiteralToken",
+	"type" : "normal"
+}

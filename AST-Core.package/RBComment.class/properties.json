@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "RBNode",
+	"category" : "AST-Core-Nodes",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"contents",
+		"start"
+	],
+	"name" : "RBComment",
+	"type" : "normal"
+}

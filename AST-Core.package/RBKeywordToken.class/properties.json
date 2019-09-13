@@ -1,0 +1,11 @@
+{
+	"commentStamp" : "",
+	"super" : "RBValueToken",
+	"category" : "AST-Core-Tokens",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "RBKeywordToken",
+	"type" : "normal"
+}

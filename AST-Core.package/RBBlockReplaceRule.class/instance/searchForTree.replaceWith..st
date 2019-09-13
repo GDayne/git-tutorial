@@ -1,0 +1,4 @@
+private - searching
+searchForTree: aBRProgramNode replaceWith: aBlock 
+	searchTree := aBRProgramNode.
+	replaceBlock := aBlock
